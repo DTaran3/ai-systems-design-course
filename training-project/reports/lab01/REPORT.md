@@ -4,7 +4,7 @@
 
 - URL форку: https://github.com/DTaran3/ai-systems-design-course
 - Назва гілки: lab01-submission
-- Повний хеш коміту:
+- Повний хеш коміту: c51edcc4d3acd04bd1cde2a41ba9b7d6caaae8cb
 
 ## Мета роботи
 
