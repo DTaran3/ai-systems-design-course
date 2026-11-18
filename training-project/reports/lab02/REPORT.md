@@ -4,7 +4,7 @@
 
 - URL форку: https://github.com/DTaran3/ai-systems-design-course
 - Назва особистої гілки: lab02/DTaran3
-- Повний хеш коміту зі свідченнями:
+- Повний хеш коміту зі свідченнями: 1a2e8ed0d75a0cbe34eaf09635436c27c690e626
 
 ## Мета роботи
 
